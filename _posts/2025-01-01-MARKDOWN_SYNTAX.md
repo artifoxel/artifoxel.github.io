@@ -1,3 +1,9 @@
+---
+layout: post
+title: Markdown Syntax
+categories: [Miscellaneous, Jekyll]
+---
+
 # Markdown Syntax
 
 Markdown is a easy-to-use markup language for writing and this document contains all supported markdown features.
