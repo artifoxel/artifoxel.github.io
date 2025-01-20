@@ -4,8 +4,6 @@ title: Markdown Syntax
 categories: [Miscellaneous, Jekyll]
 ---
 
-# Markdown Syntax
-
 Markdown is a easy-to-use markup language for writing and this document contains all supported markdown features.
 
 ## Table of contents
@@ -239,6 +237,8 @@ Note that placement of achors is arbitrary, you can put them anywhere you want, 
 ## Images
 
 Images have a similar syntax to links but include a preceding exclamation point.
+
+![local duck]({{ site.baseurl }}/images/local-duck.jpg)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
