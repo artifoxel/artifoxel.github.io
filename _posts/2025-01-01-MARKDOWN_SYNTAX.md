@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown Syntax
+author: "Reference"
 categories: [Miscellaneous, Jekyll]
 ---
 
