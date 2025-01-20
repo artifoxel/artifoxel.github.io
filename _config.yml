@@ -6,7 +6,7 @@
 name: Top Row News
 
 # Name of the author
-author: Top Row Publishing Inc.
+author: Michael A. Turner
 
 # Short bio or description (displayed in the header)
 description: Journalism on the front lines
@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: inquiries@toprow.news
+  email: michael@toprow.news
   facebook:
   flickr:
   github: toprowpublishing/news
@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: toprownews
+  twitter:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -48,8 +48,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.toprow.news
-enforce_ssl: https://www.toprow.news
+url: http://artifoxel.github.io/reverie-template
+enforce_ssl: https://artifoxel.github.io/reverie-template
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
