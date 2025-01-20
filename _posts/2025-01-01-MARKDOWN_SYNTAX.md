@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Markdown Syntax
-author: "Reference"
+author: "Top Row Publishing"
+location: "Tblisi, Georgia"
 categories: [Miscellaneous, Jekyll]
 ---
 
