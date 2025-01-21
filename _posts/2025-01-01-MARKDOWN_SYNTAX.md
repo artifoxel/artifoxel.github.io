@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Markdown Syntax
-author: "Top Row Publishing"
-location: "Tblisi, Georgia"
 categories: [Miscellaneous, Jekyll]
+author: "Reference"
+location: "Tblisi, Georgia"
 ---
 
 Markdown is a easy-to-use markup language for writing and this document contains all supported markdown features.
