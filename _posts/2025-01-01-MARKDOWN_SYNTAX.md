@@ -2,8 +2,8 @@
 layout: post
 title: Markdown Syntax
 categories: [Miscellaneous, Jekyll]
-author: "Reference"
-location: "Tblisi, Georgia"
+author: "Tech Desk"
+location: "Top Row HQ"
 ---
 
 Markdown is a easy-to-use markup language for writing and this document contains all supported markdown features.
@@ -241,11 +241,11 @@ Note that placement of achors is arbitrary, you can put them anywhere you want, 
 Images have a similar syntax to links but include a preceding exclamation point.
 
 
-local duck abs
+local duck images: `{{ site.baseurl }}/images/local-duck.jpg`:
 ![local duck]({{ site.baseurl }}/images/local-duck.jpg)
 
-local duck rel
-![local duck](../images/local-duck.jpg)
+local duck authors subfolder `{{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle`
+![local duck]({{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
