@@ -240,7 +240,12 @@ Note that placement of achors is arbitrary, you can put them anywhere you want, 
 
 Images have a similar syntax to links but include a preceding exclamation point.
 
+
+local-duck abs ref:
 ![local duck]({{ site.baseurl }}/images/local-duck.jpg)
+
+local-duck rel ref:
+![local duck](/images/local-duck.jpg)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
