@@ -9,7 +9,7 @@ layout: default
         <h1>{{ post.title }}</h1>
 
         <div>
-          <p class="post_date">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %} · {% if page.location %}{{ page.location }} · {% endif %}{{ page.date | date: "%B %e, %Y" }}</p>
+          <p class="post_date">{% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %} · {% if post.location %}{{ post.location }} · {% endif %}{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
       <div class="entry">
