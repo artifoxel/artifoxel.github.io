@@ -245,7 +245,7 @@ local duck abs
 ![local duck]({{ site.baseurl }}/images/local-duck.jpg)
 
 local duck rel
-![local duck](/images/local-duck.jpg)
+![local duck](../images/local-duck.jpg)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
