@@ -244,8 +244,8 @@ Images have a similar syntax to links but include a preceding exclamation point.
 local duck images: `{{ site.baseurl }}/images/local-duck.jpg`:
 ![local duck]({{ site.baseurl }}/images/local-duck.jpg)
 
-local duck authors subfolder `{{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle`
-![local duck]({{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle)
+local duck authors subfolder `{{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle.jpg`
+![local duck]({{ site.baseurl }}/_authors/toprowpub/toprownews-icon.circle.jpg)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
