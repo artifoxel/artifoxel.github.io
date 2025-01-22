@@ -241,11 +241,11 @@ Note that placement of achors is arbitrary, you can put them anywhere you want, 
 Images have a similar syntax to links but include a preceding exclamation point.
 
 
-images subfolder `{{ site.baseurl }}/images/local-duck.jpg`:
+images folder `{{ site.baseurl }}/images/local-duck.jpg`:
 ![local duck]({{ site.baseurl }}/images/local-duck.jpg)
 
-authors subfolder `{{ site.baseurl }}/_authors/toprowpub/toprow-icon.circle.png`
-![local duck]({{ site.baseurl }}/_authors/toprowpub/toprow-icon.circle.png)
+authors assets subfolder `{{ site.baseurl }}/assets/toprowpub/toprow-icon.circle.png`
+![local duck]({{ site.baseurl }}/assets/toprowpub/toprow-icon.circle.png)
 
 ```markdown
 ![MarkText](https://raw.githubusercontent.com/marktext/marktext/develop/resources/icons/256x256/marktext.png)
